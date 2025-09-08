@@ -1,7 +1,14 @@
-2025-09-08 07:53:03,111 Start binary_search: data=[1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 23, 32, 33, 53], target=33
-2025-09-08 07:53:03,111 Loop 1: low=0, high=14, mid=7, data[mid]=9
-2025-09-08 07:53:03,111 data[mid] < target, new low=8
-2025-09-08 07:53:03,111 Loop 2: low=8, high=14, mid=11, data[mid]=23
-2025-09-08 07:53:03,112 data[mid] < target, new low=12
-2025-09-08 07:53:03,112 Loop 3: low=12, high=14, mid=13, data[mid]=33
-2025-09-08 07:53:03,112 Target found at index 13 after 3 loops
+2025-09-08 07:56:18,511 Start binary_search: data=[1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 23, 32, 33, 53], target=33
+2025-09-08 07:56:18,511 Loop 1: low=0, high=14, mid=7, data[mid]=9
+2025-09-08 07:56:18,511 data[mid] < target, new low=8
+2025-09-08 07:56:18,511 Loop 2: low=8, high=14, mid=11, data[mid]=23
+2025-09-08 07:56:18,511 data[mid] < target, new low=12
+2025-09-08 07:56:18,511 Loop 3: low=12, high=14, mid=13, data[mid]=33
+2025-09-08 07:56:18,511 Target found at index 13 after 3 loops
+2025-09-08 07:59:03,060 Start binary_search: data=[1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 23, 32, 33, 53], target=33
+2025-09-08 07:59:03,060 Loop 1: low=0, high=14, mid=7, data[mid]=9
+2025-09-08 07:59:03,061 data[mid] < target, new low=8
+2025-09-08 07:59:03,063 Loop 2: low=8, high=14, mid=11, data[mid]=23
+2025-09-08 07:59:03,064 data[mid] < target, new low=12
+2025-09-08 07:59:03,064 Loop 3: low=12, high=14, mid=13, data[mid]=33
+2025-09-08 07:59:03,064 Target found at index 13 after 3 loops

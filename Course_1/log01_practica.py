@@ -1,7 +1,7 @@
 def binary_search(data, target):
     import logging
 
-    logging.basicConfig(filename='log.txt', level=logging.INFO, filemode='w', format='%(asctime)s %(message)s')
+    logging.basicConfig(filename='log.txt', level=logging.INFO, filemode='a', format='%(asctime)s %(message)s')
     
     loops = 0
     low = 0
